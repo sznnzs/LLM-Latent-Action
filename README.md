@@ -1,6 +1,6 @@
-# Internalizing LLM Reasoning via Discovery and Replay of Latent Control Actions
+# Internalizing LLM Reasoning via Discovery and Replay of Latent Actions
 
-This repository contains the implementation for the paper **"Internalizing LLM Reasoning via Discovery and Replay of Latent Control Actions"**.
+This repository contains the implementation for the paper **"Internalizing LLM Reasoning via Discovery and Replay of Latent Actions"**.
 
 ## 📖 Abstract
 
